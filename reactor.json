@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "themacexpert",
+    "repo": "usdt-moonbeam",
+    "branch": "master"
+  },
+  "name": "usdt moonbeam",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1025
+}
